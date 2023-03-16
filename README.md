@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salemas
-- 👀 I’m interested in we development, IoT, AI and machine learning. I'm curious person and avid learner.
+- 👀 I’m interested in web development, IoT, AI and machine learning. I'm curious person and avid learner.
 - 🌱 I’m currently learning main web stuff HTML, CSS, JS and everything in between and beyond.
 - 
 - 📫 How to reach me - by saulius.epastas@gmail.com
